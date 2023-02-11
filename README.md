@@ -19,7 +19,7 @@ BackUp Desktop and Send Email with zip Attached
 
 The team is always here to help you.
 Happen to face an issue? Want to report a bug?
-You can submit one here on GitHub using the [Issue Tracker](https://github.com/256cub/MySQLBackUp/issues/new).
+You can submit one here on GitHub using the [Issue Tracker](https://github.com/256cub/MySqlBackUp/issues/new).
 
 
 <!-- CONTRIBUTING -->
